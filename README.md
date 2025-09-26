@@ -1,3 +1,8 @@
+### Published in Render
+
+https://chat-application-q7ig.onrender.com 
+
+
 ### Setup .env file
 
 ```js
